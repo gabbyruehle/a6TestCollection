@@ -1,5 +1,6 @@
 package a6test.gruehle;
 
+import static org.junit.Assert.*;
 
 import org.junit.*;
 
